@@ -1,1 +1,1 @@
-# Project-Semester-2
+Project Web Static semester 2
